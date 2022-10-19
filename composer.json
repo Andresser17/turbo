@@ -1,0 +1,21 @@
+{
+  "name": "andresser17/turbo",
+  "description": "A simple web api framework",
+  "type": "library",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Turbo\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Andresser17",
+      "email": "andresserserrano2020@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "squizlabs/php_codesniffer": "*",
+    "friendsofphp/php-cs-fixer": "^3.10"
+  }
+}
