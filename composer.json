@@ -2,7 +2,7 @@
   "name": "andresser17/turbo",
   "description": "A simple web api framework",
   "type": "library",
-  "version": "1.0.0",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Turbo\\": "src"
@@ -14,6 +14,9 @@
       "email": "andresserserrano2020@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=7.4"
+  },
   "require-dev": {
     "squizlabs/php_codesniffer": "*",
     "friendsofphp/php-cs-fixer": "^3.10"
