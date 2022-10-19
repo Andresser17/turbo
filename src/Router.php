@@ -1,6 +1,6 @@
 <?php
 
-namespace Turbo;
+namespace Andresser17\Turbo;
 
 use \Turbo\Route;
 use \Turbo\Request;

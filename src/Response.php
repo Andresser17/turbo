@@ -1,6 +1,6 @@
 <?php
 
-namespace Turbo;
+namespace Andresser17\Turbo;
 
 class Response
 {
