@@ -2,9 +2,9 @@
 
 namespace Andresser17\Turbo;
 
-use \Turbo\Route;
-use \Turbo\Request;
-use \Turbo\Response;
+use Andresser17\Turbo\Route;
+use Andresser17\Turbo\Request;
+use Andresser17\Turbo\Response;
 
 class Router
 {
